@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
-loadstring(game:HttpGet("https://pastefy.app/FiH7gYaU/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Garden/Garden-V1.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/eOOM9HaZ/raw"))()
